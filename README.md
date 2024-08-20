@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Mmy IQ Test Game
+- 🔭 I’m currently working on my IQ Test Game
 - 🌱 I’m currently learning pandas and kivy
 - ⚡ Fun fact: it's very long! xD
 - Go check my [youtube channel](youtube.com/@gild56gmd)!
