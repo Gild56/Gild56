@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on my IQ Test Game
 - 🌱 I’m currently learning pandas and kivy
 - ⚡ Fun fact: it's very long! xD
-- Go check my [youtube channel](youtube.com/@gild56gmd)!
+### Go check my [youtube channel](youtube.com/@gild56gmd) please!
 <!--
 **Gild56/Gild56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
